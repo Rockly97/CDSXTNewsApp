@@ -11,7 +11,6 @@ import java.util.Random;
     /**
      *   Created by lcw on 2018/4/24.
      * 用于图片验证码的工具类
-     * 11
      */
 public class CodeUtils {
     private static final char[] CHARS = {
